@@ -1,44 +1,46 @@
 <div align="center">
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=500&lines=AMAN+AWASTHI;PREMIUM+MINIMALIST;AI+DEVELOPER" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=600&lines=AMAN+AWASTHI;ARCHITECT+OF+INTELLIGENCE;ISC+%7C+COMMERCE+%7C+AI" alt="Typing SVG" />
+
+  <br/><br/>
+
+  <a href="https://twitter.com/konnichiwaaman">
+    <img src="https://img.shields.io/badge/X_NET-000000?style=for-the-badge&logo=x&logoColor=white&border=white" />
   </a>
-
-  <br/>
-
-  <p>
-    <a href="https://twitter.com/konnichiwaaman">
-      <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"/>
-    </a>
-    <a href="mailto:helloamanawasthi@gmail.com">
-      <img src="https://img.shields.io/badge/Email-%23000000.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
-    <a href="https://developeramanawasthi.netlify.app/">
-      <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Web"/>
-    </a>
-  </p>
-
-  <br/>
-
-  <a href="https://github.com/KonnichiwaAman">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=KonnichiwaAman&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=999999&count_private=true" alt="Stats"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KonnichiwaAman&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=999999&icon_color=ffffff" alt="Langs"/>
+  <a href="mailto:helloamanawasthi@gmail.com">
+    <img src="https://img.shields.io/badge/UPLINK-000000?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://developeramanawasthi.netlify.app/">
+    <img src="https://img.shields.io/badge/NEXUS-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 
   <br/><br/>
 
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <br/>
-  <img src="https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://github.com/KonnichiwaAman/KonnichiwaAman/blob/master/github-metrics.svg" alt="Metrics" width="100%" />
 
   <br/><br/>
 
-  <img src="https://github.com/KonnichiwaAman/KonnichiwaAman/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
+  <table>
+    <tr>
+      <td align="center" width="90">
+        <img src="https://simpleicons.org/icons/python.svg" width="30" height="30" style="filter: invert(100%)" /><br/>PYTHON
+      </td>
+      <td align="center" width="90">
+        <img src="https://simpleicons.org/icons/typescript.svg" width="30" height="30" style="filter: invert(100%)" /><br/>TS
+      </td>
+      <td align="center" width="90">
+        <img src="https://simpleicons.org/icons/react.svg" width="30" height="30" style="filter: invert(100%)" /><br/>REACT
+      </td>
+      <td align="center" width="90">
+        <img src="https://simpleicons.org/icons/nextdotjs.svg" width="30" height="30" style="filter: invert(100%)" /><br/>NEXT
+      </td>
+      <td align="center" width="90">
+        <img src="https://simpleicons.org/icons/linux.svg" width="30" height="30" style="filter: invert(100%)" /><br/>LINUX
+      </td>
+      <td align="center" width="90">
+        <img src="https://simpleicons.org/icons/git.svg" width="30" height="30" style="filter: invert(100%)" /><br/>GIT
+      </td>
+    </tr>
+  </table>
 
 </div>
